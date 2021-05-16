@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "./static/css/main.f1aa60aa.chunk.css",
+    "main.js": "./static/js/main.a146c7cc.chunk.js",
+    "main.js.map": "./static/js/main.a146c7cc.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.3e45f9a9.js",
+    "runtime-main.js.map": "./static/js/runtime-main.3e45f9a9.js.map",
+    "static/css/2.19ef98b2.chunk.css": "./static/css/2.19ef98b2.chunk.css",
+    "static/js/2.7ee55ee0.chunk.js": "./static/js/2.7ee55ee0.chunk.js",
+    "static/js/2.7ee55ee0.chunk.js.map": "./static/js/2.7ee55ee0.chunk.js.map",
+    "static/js/3.3df9e824.chunk.js": "./static/js/3.3df9e824.chunk.js",
+    "static/js/3.3df9e824.chunk.js.map": "./static/js/3.3df9e824.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/2.19ef98b2.chunk.css.map": "./static/css/2.19ef98b2.chunk.css.map",
+    "static/css/main.f1aa60aa.chunk.css.map": "./static/css/main.f1aa60aa.chunk.css.map",
+    "static/js/2.7ee55ee0.chunk.js.LICENSE.txt": "./static/js/2.7ee55ee0.chunk.js.LICENSE.txt",
+    "static/media/eAdministration_269x290.5efee618.png": "./static/media/eAdministration_269x290.5efee618.png",
+    "static/media/exodusleague_310x310.a7674020.png": "./static/media/exodusleague_310x310.a7674020.png",
+    "static/media/fox_logo.4ba67008.png": "./static/media/fox_logo.4ba67008.png",
+    "static/media/mountains.af07635f.jpg": "./static/media/mountains.af07635f.jpg",
+    "static/media/original-favicon.e5940a02.png": "./static/media/original-favicon.e5940a02.png",
+    "static/media/yngfox_2159x2159.9506b4d2.png": "./static/media/yngfox_2159x2159.9506b4d2.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3e45f9a9.js",
+    "static/css/2.19ef98b2.chunk.css",
+    "static/js/2.7ee55ee0.chunk.js",
+    "static/css/main.f1aa60aa.chunk.css",
+    "static/js/main.a146c7cc.chunk.js"
+  ]
+}
